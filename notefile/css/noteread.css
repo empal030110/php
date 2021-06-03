@@ -1,0 +1,20 @@
+.table{
+    position: relative;
+    top: 20vh;
+}
+table td{
+    height: 150px;
+}
+table td textarea{
+    height: 150px;
+}
+.submit{
+    background: white;
+    border: none;
+}
+.input_text{
+    border: none;
+}
+.th{
+    height: 10vh;
+}

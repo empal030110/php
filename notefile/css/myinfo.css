@@ -1,0 +1,33 @@
+.myinfo {
+    position:absolute;
+    width:600px;
+    height:400px;
+    padding: 30px, 20px;
+    background-color: darkgrey;
+    text-align:center;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    border-radius: 15px;
+  }
+.updatebtn{
+  margin: 5px;
+  width: 170px;
+  height: 35px;
+  background-color: white;
+  border-color: white;
+  border-style: none;
+  font-size: 20px;
+  border-radius: 15px;
+}
+.delbtn{
+  margin: 5px;
+  width: 170px;
+  height: 35px;
+  background-color: white;
+  border-color: white;
+  border-style: none;
+  font-size: 20px;
+  color: red;
+  border-radius: 15px;
+}
